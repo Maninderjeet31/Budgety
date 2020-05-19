@@ -15,4 +15,4 @@ Overview:
 
 6. Thus displays the user with the resulting budget in GUI.
 
-![Test Image 1](Screenshot 2020-05-18 at 9.25.16 PM.png)
+![Test Image 1](https://github.com/Maninderjeet31/Budgety/blob/master/Screenshot%202020-05-18%20at%209.25.16%20PM.png)
