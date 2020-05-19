@@ -14,3 +14,5 @@ Overview:
 5. The user can even remove any expense or income at their will and the changes would be reflected on the top with total          budget and total expenses.
 
 6. Thus displays the user with the resulting budget in GUI.
+
+![Test Image 1](Screenshot 2020-05-18 at 9.25.16 PM.png)
