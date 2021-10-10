@@ -17,8 +17,8 @@ The budget app for maintaining income and expenses.
 
 ### Languages
 
-  HTML
-  CSS
+  HTML, 
+  CSS, 
   Javascript
 
 Screenshot:
