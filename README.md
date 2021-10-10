@@ -1,7 +1,7 @@
 # Budgety
 The budget app for maintaining income and expenses.
 
-Overview:
+### Overview:
 
 1. The budget application allows us to add incomes and expenses for certain month.
 
@@ -14,6 +14,12 @@ Overview:
 5. The user can even remove any expense or income at their will and the changes would be reflected on the top with total          budget and total expenses.
 
 6. Thus displays the user with the resulting budget in GUI.
+
+### Languages
+
+  HTML
+  CSS
+  Javascript
 
 Screenshot:
 
