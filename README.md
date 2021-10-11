@@ -16,7 +16,7 @@ The budget app for maintaining income and expenses.
 6. Thus displays the user with the resulting budget in GUI.
 
 ### Languages
-
+ 
   HTML, 
   CSS, 
   Javascript
