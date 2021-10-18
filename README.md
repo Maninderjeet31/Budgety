@@ -21,6 +21,6 @@ The budget app for maintaining income and expenses.
   CSS, 
   Javascript
 
-Screenshot:
+Screenshot :
 
 ![Test Image 1](https://github.com/Maninderjeet31/Budgety/blob/master/Screenshot%202020-05-18%20at%209.25.16%20PM.png)
